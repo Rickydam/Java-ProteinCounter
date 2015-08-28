@@ -46,7 +46,7 @@ public class ProteinCounter implements ActionListener
    public ProteinCounter()       
    {   
       firstHistory = true;
-      
+   
       JFrame frame = new JFrame("Ricky's Protein Counter");      
       frame.setPreferredSize(new Dimension(1291, 1200)); // default size      
       Container contentPane = frame.getContentPane();
