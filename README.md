@@ -1,4 +1,4 @@
-# Protein-Counter-Java
+#Java-ProteinCounter
 A Protein Counter for Java.
 
 Optimized for the Surface Pro 3.                                                                                                                                                     
