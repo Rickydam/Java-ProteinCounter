@@ -8,7 +8,8 @@
 ![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.2/v1.2.png)
 
 #v1.3
-Same.
+Same as v1.2.
+Changes to readability of the code only, GUI untouched.
 
 #v1.4
 ![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.4/v1.4.png)
