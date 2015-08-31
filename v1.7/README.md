@@ -18,4 +18,4 @@
 * Bug, text in the custom value text field breaks the program                                  
 -> Update label feed but be able to go on with program
 
-![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.7.png)
+![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.7/v1.7.png)
