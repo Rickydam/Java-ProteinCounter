@@ -3,4 +3,4 @@
 - A column for the name
 - Another column for the quantity
 
-![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.1.png)
+![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.1/v1.1.png)
